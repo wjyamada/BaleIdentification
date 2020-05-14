@@ -1,0 +1,4 @@
+classes=1
+train=data/balestrain.txt
+valid=data/balesval.txt
+names=data/bales.coco

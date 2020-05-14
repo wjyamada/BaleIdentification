@@ -1,0 +1,4 @@
+classes=1
+train=data/coco247train.txt
+valid=data/coco53test.txt
+names=data/custom.coco
