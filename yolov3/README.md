@@ -1,6 +1,7 @@
 Use the CreateFiles.ipynb to extract an dataset to train/validate/test
 
 Train (need to download the pretrained weights)
+
 	python3 train.py --cfg yolov3-spp.cfg --data data/bales.data --batch-size 1 --epochs 60
 
 
